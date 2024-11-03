@@ -1,6 +1,5 @@
 ### Hi there👏
-I'm Somanath, a passionate Developer and Designer. With expertise in creating innovative, user-friendly designs and robust, efficient code, I strive to build seamless digital experiences.
-
+I'm Somanath,a full-stack developer & designer blending creativity and tech to craft seamless digital experiences. Let’s innovate and design the future together!.
 
 What I Do                                                                                    
 Development: Specializing in full-stack development with experience in JavaScript, Python, and more.                                                                                         
