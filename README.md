@@ -3,6 +3,6 @@ I'm Somanath, a passionate Developer and Designer. With expertise in creating in
 
 
 What I Do                                                                                    
-Development: Specializing in full-stack development with experience in JavaScript, Python, and more.
-Design: Crafting intuitive and visually stunning UI/UX designs using tools like Figma and Sketch.
+Development: Specializing in full-stack development with experience in JavaScript, Python, and more.                                                                                         
+Design: Crafting intuitive and visually stunning UI/UX designs using tools like Figma and Sketch.                                                                                           
 Collaboration: Love working in teams to brainstorm, build, and iterate on creative solutions.
