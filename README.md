@@ -2,7 +2,10 @@
 ### Hi there👏 I'm Somanath,
 A full-stack developer & designer blending creativity and tech to craft seamless digital experiences. Let’s innovate and design the future together!.
 
-Skills: PYTHON / REACT / JS / HTML / CSS
+Skills: PYTHON / REACT / JS / HTML / CSS                                                     
+*➡️ Python                                                                                  
+*📱React Native                                                                            
+*💻 HTML,CSS,JS                                                                            
 
 What I Do                                                                                    
 Development: Specializing in full-stack development with experience in JavaScript, Python, and more.                                                                                         
