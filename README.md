@@ -7,8 +7,6 @@ Development: Specializing in full-stack development with experience in JavaScrip
 Design: Crafting intuitive and visually stunning UI/UX designs using tools like Figma and Sketch.                                                                                           
 Collaboration: Love working in teams to brainstorm, build, and iterate on creative solutions.
 
-### Hi there 👋, Somanath
-#### Design and Devlopment
 ![Design and Devlopment](https://scontent.fbbi1-1.fna.fbcdn.net/v/t39.30808-6/465756900_1744061303032164_7127563687883695389_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=dPXHdqt8tsAQ7kNvgF_B4Hc&_nc_zt=23&_nc_ht=scontent.fbbi1-1.fna&_nc_gid=AE1Hm7N-WvVmlnd90E7l4Q0&oh=00_AYAt-psJ3BugTPWbpcqbSboVpoYR_nj-kwjMBRkjN9Frpg&oe=672CF03A)
 
 I'm a passionate Developer and Designer. With expertise in creating innovative, user-friendly designs and robust, efficient code, I strive to build seamless digital experiences.
